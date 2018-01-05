@@ -1,9 +1,9 @@
 # rc-car-remote
-Remote interface for Radio Controlled (RC) cars | Assembly (x86)
+Remote interface for Radio Controlled (RC) Cars | Assembly (x86)
 
 **Year:** 2007
 
-**Purpose:** University project for System Programming
+**Purpose:** University project - *to demonstrate skills in System Programming*
 
 ### Technology Stack
 - Assembly (x86)
@@ -11,7 +11,7 @@ Remote interface for Radio Controlled (RC) cars | Assembly (x86)
 - OS that enables driverlesss access to ports
 
 ### Hardware
-- Radio Controlled (RC) car
+- Radio Controlled (RC) Car
 - Parallel Port (LPT)
 - Breadboard
 - Diode (as a switch)
